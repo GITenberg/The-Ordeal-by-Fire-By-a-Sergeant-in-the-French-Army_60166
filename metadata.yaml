@@ -1,10 +1,13 @@
 _repo: The-Ordeal-by-Fire-By-a-Sergeant-in-the-French-Army_60166
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Curtis, Cecil, Mrs.
     gutenberg_agent_id: '50824'
     url: http://www.gutenberg.org/2009/agents/50824
+covers:
+- cover_type: archival
+  image_path: 60166-h/images/cover.jpg
 creator:
   author:
     agent_name: Berger, Marcel
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '50825'
     url: http://www.gutenberg.org/2009/agents/50825
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60166#The-Ordeal-by-Fire-By-a-Sergeant-in-the-French-Army
 gutenberg_issued: '2019-08-24'
 gutenberg_type: Text
 identifiers:
